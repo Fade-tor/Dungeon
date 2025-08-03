@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad9bc6b1afecaa146997ffac30d1df51
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136626
+  packageName: Kartograph Free
+  packageVersion: 2.0
+  assetPath: Assets/Kartograph/Demo/Prefabs/3D/SpawnRoom.prefab
+  uploadId: 693425

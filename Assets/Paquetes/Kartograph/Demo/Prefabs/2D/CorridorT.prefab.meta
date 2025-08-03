@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5434ff09819f8f5448454fb33ea9046c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136626
+  packageName: Kartograph Free
+  packageVersion: 2.0
+  assetPath: Assets/Kartograph/Demo/Prefabs/2D/CorridorT.prefab
+  uploadId: 693425

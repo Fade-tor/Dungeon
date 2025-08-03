@@ -1,0 +1,4 @@
+repository "Dungeon@fade_tor@cloud"
+  path "/"
+    br "/main"
+    co "/main"

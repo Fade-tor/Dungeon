@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9654482bc2cba86468735a30e1c4904d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136626
+  packageName: Kartograph Free
+  packageVersion: 2.0
+  assetPath: Assets/Kartograph/Demo/Scenes/Sample3DSettings.lighting
+  uploadId: 693425

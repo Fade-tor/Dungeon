@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3087bed919c1b0d4a8d88f2a3f7a460a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136626
+  packageName: Kartograph Free
+  packageVersion: 2.0
+  assetPath: Assets/Kartograph/Resources/SectionTemplate2D.prefab
+  uploadId: 693425

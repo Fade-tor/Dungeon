@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bcdc52fadbcf2ae47822c6a4d0fc03da
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136626
+  packageName: Kartograph Free
+  packageVersion: 2.0
+  assetPath: Assets/Kartograph/Demo/Prefabs/3D/Seed.prefab
+  uploadId: 693425

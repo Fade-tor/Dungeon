@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 895a95d9dcaf189448ef4a5b3ae21957
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136626
+  packageName: Kartograph Free
+  packageVersion: 2.0
+  assetPath: Assets/Kartograph/Demo/Prefabs/2D/SeedRoom.prefab
+  uploadId: 693425
